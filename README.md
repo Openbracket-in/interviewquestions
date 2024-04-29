@@ -61,7 +61,7 @@ Thank you,
 
 All applications have to be ReactJS applications with Typescript and hosted on any free cloud.
 
-***Note:*** Unit tests gain you extra points for you.
+***Note:*** Unit tests gain you extra points.
 
 ### Problem 1
 
